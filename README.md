@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://webpasswordgenerator.netlify.app](https://webpasswordgenerator.netlify.app)
+[https://letsgeneratepassword.netlify.app)
   
 <h2>💻 Built with</h2>
 
